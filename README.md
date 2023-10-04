@@ -1,4 +1,4 @@
-# Java Linked List and Node Implementation
+# Java Linked List and Node Recreation
 
 This GitHub repository contains a Java implementation of a singly linked list (`IntList`) and its corresponding node (`Node`). These data structures allow you to work with a dynamic collection of integers. The repository also includes a `Test` class to demonstrate how to use these classes.
 
